@@ -53,7 +53,7 @@ export function Navbar() {
               >
                 <Image src={Logo} alt="Logo" className="h-10 w-10 object-cover" />
               </motion.div>
-              <span className="font-bold text-xl tracking-tight">Reacts.ai</span>
+              <span className="font-bold text-xl tracking-tight">Coding</span>
             </Link>
           </div>
 
